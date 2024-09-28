@@ -7,5 +7,5 @@ Hi. I am Ruth. I am a Machine Learning Analyst student
 - 👯 I’m looking to collaborate on developing machine learning prediction problems
 - 📫 How to reach me: ruth.olasupo5@gmail.com
 - 😄 Pronouns: Her, She
-- ⚡ Fun fact: ...
+
 -->
